@@ -1,0 +1,42 @@
+p{
+	font-weight: bold;
+	/*text-align: center;*/
+}
+
+.jumbotron{
+	margin-top: 10px;
+	background-color: #89c0d2;
+	color: #3b3c40;
+}
+/*.row{
+	margin: 20px;
+}*/
+.gif{
+	max-width: 200px;
+	max-height: 200px;
+	margin-top: 5px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+.d-topic:nth-of-type(3n+1) {
+  clear: both;
+
+}
+
+.sub-topic-class{
+	border-radius: 4px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	margin: 10px;	
+}
+
+#divApiSubTopics, .divSearch, #message{
+	text-align: center;
+	margin: auto;
+}
+
+#formmessage{
+	text-align: center;
+	margin-top: 15px;
+	font-size: 16px	
+}
